@@ -1,0 +1,1 @@
+The UserCreationTest12 shred is a Spring Boot microservice feature that follows Hexagonal Architecture for user registration. It consists of a REST API endpoint for registering new users, domain logic for user validation, and persistence logic for saving user data to a Postgres database. The feature
